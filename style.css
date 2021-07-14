@@ -4,3 +4,15 @@ h1 {
 img {
 	float: right;
 }
+.container {
+	height: 80%;
+	width: 90%;
+	padding-left: 5%;
+}
+.navigation {
+	padding: 10px;
+	text-decoration: none;
+}
+.navigation:hover {
+	color: green;
+}
