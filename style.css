@@ -1,7 +1,7 @@
 h1 {
 	text-align: center;
 }
-img {
+.my-pic {
 	float: right;
 }
 .container {
@@ -10,9 +10,56 @@ img {
 	padding-left: 5%;
 }
 .navigation {
+	font-size: 25px;
 	padding: 10px;
 	text-decoration: none;
+	color: white;
 }
 .navigation:hover {
 	color: green;
+}
+.main-cont {
+	margin-top: 20%;
+}
+.pic {
+    position:relative;
+    top:70%;
+    height:7em;
+    width:7em;
+    border:5px solid rgb(0, 0, 0);
+    border-radius: 70%;
+    background-color: silver;
+}
+.pic:hover {
+ 	box-shadow: 0 0 5px 2px rgb(58, 50, 50);
+ }
+ .header {
+ 	background-color: black;
+ 	height: 32px;
+ 	text-align: center;
+ }
+
+.personal {
+	font-size: 20px;
+	color: maroon;
+}
+
+.obj {
+	font-size: 20px;
+	color: maroon;
+}
+
+.goal {
+	font-size: 20px;
+	color: maroon;
+}
+
+.strength {
+	font-size: 20px;
+	color: maroon;
+}
+
+.hobby {
+	font-size: 20px;
+	color: maroon;
 }
