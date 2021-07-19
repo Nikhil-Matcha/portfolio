@@ -5,6 +5,9 @@ body {
 h1 {
 	text-align: center;
 }
+.something {
+	text-align: center;
+}
 .my-pic {
 	float: right;
 }
