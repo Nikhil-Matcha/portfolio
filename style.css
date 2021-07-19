@@ -1,3 +1,7 @@
+body {
+	text-align: justify;
+}
+
 h1 {
 	text-align: center;
 }
@@ -16,7 +20,8 @@ h1 {
 	color: white;
 }
 .navigation:hover {
-	color: green;
+	color: black;
+	background-color: white;
 }
 .main-cont {
 	margin-top: 20%;
